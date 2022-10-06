@@ -3,5 +3,9 @@
     "version": "1.0.0",
     "description": "Template repository for a Nevermore plugin.",
     "author": "unrooot",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "@quenty/loader": "^6.0.0",
+        "@quenty/servicebag": "^6.0.0"
+    }
 }
