@@ -1,0 +1,28 @@
+{
+	"name": "projectName",
+	"globIgnorePaths": [ "**/.package-lock.json" ],
+	"tree": {
+		"$className": "DataModel",
+		"ServerScriptService": {
+			"Nevermore": {
+				"$className": "Folder",
+				"game": {
+					"$path": "modules"
+				},
+				"packages": {
+					"$path": "node_modules"
+				}
+			},
+			"Main": {
+				"$path": "scripts/Server"
+			}
+		},
+		"StarterPlayer": {
+			"StarterPlayerScripts": {
+				"Main": {
+					"$path": "scripts/Client"
+				}
+			}
+		}
+	}
+}

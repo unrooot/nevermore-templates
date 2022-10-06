@@ -1,0 +1,7 @@
+{
+    "name": "nevermore-plugin-template",
+    "version": "1.0.0",
+    "description": "Template repository for a Nevermore plugin.",
+    "author": "unrooot",
+    "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "nevermore-package-template",
+    "version": "1.0.0",
+    "description": "Template repository for a Nevermore package.",
+    "author": "unrooot",
+    "license": "MIT"
+}
