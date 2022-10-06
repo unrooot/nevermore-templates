@@ -57,7 +57,6 @@ The `src/projectName/modules/` folder should contain the Client, Shared, and Ser
 	- Bootstraps plugin modules.
 
 ## Usage
----
 Nevermore is designed to use npm to manage packages. You can install some of the most common ones in with the command:
 ```sh
 # example
