@@ -4,11 +4,11 @@ This repository consists of 3 different templates that you can use as starting p
 ---
 
 ## Prerequesites
-It is recommended that you are somewhat familiar with how to use the command-line.
+It is recommended that you are somewhat familiar with how to use the command-line and know how to use Rojo.
 
-To quote the official Nevermore documentation:
+To quote the [official Nevermore documentation](https://quenty.github.io/NevermoreEngine/docs/intro):
 
-> "Getting started with Nevermore is not easy."
+> ### "Getting started with Nevermore is not easy."
 
 ## Dependencies
 Install the following applications and make sure you can run them in your operating system's terminal:
@@ -16,7 +16,7 @@ Install the following applications and make sure you can run them in your operat
 * [aftman](https://github.com/LPGhatguy/aftman) (or [foreman](https://github.com/Roblox/foreman))
 * [rojo](https://rojo.space/)
 
-You can download aftman with `cargo`, which is included with the the Rust programming language](https://rustup.rs/).
+You can download aftman with `cargo`, which is included with the the [Rust programming language](https://rustup.rs/).
 ```sh
 cargo install aftman
 ```
@@ -36,7 +36,7 @@ These are the files you should pay attention to:
 	- This is the file that tells Rojo where to sync the files on your computer into Studio. The included files have been mostly pre-configured, but make sure to update the project name.
 
 * `./package.json`
-	- Nevermore packages are managed with (npm)[https://www.npmjs.com/]. This file stores your project's dependencies.
+	- Nevermore packages are managed with [npm](https://www.npmjs.com/). This file stores your project's dependencies.
 
 * `./aftman.toml` or `./foreman.toml`
 	- aftman/foreman controls the version of rojo that you're using.
